@@ -141,3 +141,12 @@ The –simulate flag generates a full attack chain:
 
 
 🛠️ Tech Stack
+
+|Technology      |Purpose                        |
+|----------------|-------------------------------|
+|Python 3        |Core application               |
+|Telegram Bot API|Real-time alert delivery       |
+|SQLite          |Alert history and forensics    |
+|Regex           |Log pattern matching           |
+|MITRE ATT&CK    |Threat classification framework|
+|Kali Linux      |Deployment platform            |
